@@ -1,0 +1,24 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "description": "This site will blow your mind. And your hair.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcam/bar.git"
+   },
+   "resolutions": {
+    "webpack-dev-middleware": "3.6.0"
+  },
+  "author": "Tom Campbell <tomcampbell@gmail.com>",
+  "license": "Unknown",
+  "private": true,
+  "scripts": {                                                                  
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "homepage": "https://github.com/tomcam/bar#readme",
+  "dependencies": {
+    "vuepress": "^0.14.0"
+  }
+}
