@@ -1,3 +1,3 @@
 # bar
 ## By Tom Campbell
-An earth-shattering project to...
+This site will blow your mind. And your hair.
