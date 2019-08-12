@@ -1,4 +1,4 @@
 # Welcome to bar 
-This site will blow your mind. And your hair.
+The latest version of bar
 
-To learn more about us, see [About](about.md)
+To learn more about us, see [About](about.md), or you contact us by email at tomcampbell@gmail.com.
